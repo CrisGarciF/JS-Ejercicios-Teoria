@@ -1,0 +1,56 @@
+{
+  "younkos": [
+    {
+      "id": 1,
+      "nombre": "Kaido",
+      "fruta": "Ou Ou"
+    },
+    {
+      "id": 2,
+      "nombre": "Lin Lin",
+      "fruta": "Soru Soru"
+    },
+    {
+      "id": 3,
+      "nombre": "Shanks",
+      "fruta": "Haki"
+    },
+    {
+      "id": 4,
+      "nombre": "Luffy",
+      "fruta": "Gomu Gomu"
+    },
+    {
+      "nombre": "Bugy",
+      "fruta": "hito hito",
+      "id": 6
+    }
+  ],
+  "Gorosei": [
+    {
+      "id": 1,
+      "nombre": "saturno",
+      "poder": "gravedad"
+    },
+    {
+      "id": 2,
+      "nombre": "mercuri",
+      "poder": "logia"
+    },
+    {
+      "id": 3,
+      "nombre": "peter",
+      "poder": "haki"
+    },
+    {
+      "id": 4,
+      "nombre": "nusjuro",
+      "poder": "espada"
+    },
+    {
+      "id": 5,
+      "nombre": "mars",
+      "poder": "luz"
+    }
+  ]
+}

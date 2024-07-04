@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON</title>
+</head>
+<body>
+    <h1>JSON</h1>
+    <script>
+        console.log(JSON);
+        //parse() -> analiza que el objeto sea JSON y lo comvieter en javascript
+        console.log(JSON.parse("{}"));
+        console.log(JSON.parse("[1,2,3,4]"));
+        console.log(JSON.parse("19"));
+        console.log(JSON.parse("false"));
+        console.log(JSON.parse("null"));
+
+        //stringify() -> analiza que sea javascript y lo comvierte en JSON
+        console.log(JSON.stringify({}));
+        console.log(JSON.stringify([1,2,3,4,5]));
+        console.log(JSON.stringify(true));
+        console.log(JSON.stringify(null));
+        console.log(JSON.stringify({x:2, y:4}));
+    </script>
+</body>
+</html>

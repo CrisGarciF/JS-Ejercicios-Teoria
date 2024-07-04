@@ -1,0 +1,15 @@
+{
+    "cadena":"cris",
+    "numero":"20",
+    "booleano":"true",
+    "arreglo":[
+        "correr",
+        "caminar",
+        "cocinar"
+    ],
+    "objeto":{
+        "twitter":"@cristian",
+        "email":"garciamesa123@gmail.com"
+    },
+    "nulo": "null"
+}
